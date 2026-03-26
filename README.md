@@ -1,7 +1,4 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-
-
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
